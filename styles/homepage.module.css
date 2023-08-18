@@ -1,0 +1,91 @@
+@import "./responsive.module.css";
+.homepage {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+  }
+  
+  .header {
+    background-color: rgba(0, 0, 0, 0.959);
+    color: white;
+    padding: 1rem;
+  }
+  
+  .header nav ul {
+    margin: 3px;
+    list-style: none;
+    display: flex;
+  }
+  
+  .header nav li {
+    margin-right: 1rem;
+    margin-top: 15px;
+    padding-left: 10px;
+  }
+  
+  .header nav a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .hero {
+    background-image: url("https://w0.peakpx.com/wallpaper/216/617/HD-wallpaper-macbook-pro-laptop-ultra-computers-hardware-dark-internet-business-laptop-apple-night-open-modern-design-background-digital-technology-computer-macbook-macbookpro-aesthetic-portable.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .hero-content {
+    text-align: center;
+    margin-left: 50%;
+    color: white;
+  }
+  
+  .hero h1 {
+    color: #ccc;
+    font-size: 3rem;
+    margin-bottom: 1rem;
+  }
+  
+  .hero p {
+    color: #ccc;
+    font-size: 1.25rem;
+    margin-bottom: 1.5rem;
+    padding-left: 19px;
+  }
+  
+  .inputForm {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2rem;
+  }
+  
+  .inputForm input {
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 5px 0 0 5px;
+    width: 70%;
+  }
+  
+  .inputForm button {
+    background-color: #ff6600;
+    color: white;
+    border: none;
+    border-radius: 0 5px 5px 0;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .inputForm button:hover {
+    background-color: #ff8c1a;
+  }
+  .logo {
+    width: 100px; 
+    height: auto;
+    margin-right: 1rem; 
+  }
+  
