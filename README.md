@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## pleaase note its a basic frontend in typescript U can customize it according to your need 
 
 ## Getting Started
 
